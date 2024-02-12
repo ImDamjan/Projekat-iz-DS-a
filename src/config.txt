@@ -1,0 +1,2 @@
+PROVIDER # MTS
+CONNSTRING # Data Source=C:\GITHUB\src\db\a1_database.db;
